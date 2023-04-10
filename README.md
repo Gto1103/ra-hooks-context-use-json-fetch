@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dcbxk8loxqp6j5w7?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-hoc-time)
+[![Build status](https://ci.appveyor.com/api/projects/status/sd86ehp23fed58fo?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-hooks-context-use-json-fetch)
 
 [Страница проекта](https://gto1103.github.io/ra-hooks-context-use-json-fetch/)
 
